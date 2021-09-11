@@ -10,7 +10,7 @@ and gives statistics about the Medical drug in that social media site.
 
 ## Example:
 
-During the COVID-19 pandemic a really popular medication was the Dexamethasone , specially for patients in critical condition.
+During the COVID-19 pandemic a really popular medication is the Dexamethasone , specially for patients in critical condition.
 
 In this example we run the app for this drug and searching in Reddit´s r/all ( a subreddit with the most popular posts from multiple subreddits)
 
