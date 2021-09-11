@@ -28,6 +28,8 @@ We also generate a Wordcloud of all the collected posts.
 
 ![alt-text](https://github.com/jboirazian/Drug-Review-Machine-Learning-app/blob/main/2678d923e9c4519bb72e56b315be37ae97ae463c609b6bc58ff16709.jpeg)
 
+#### Link to the app hosted in Heroku:  https://tinyurl.com/DrugReviewAnalyzer
+
 Grupo 6 - TP 4 - Digital House - Data Science
 
 ### Members: 
@@ -42,4 +44,4 @@ Mariana peinado: peinadomariana@gmail.com
 
 Franco Visintini: francovisintini@gmail.com
 
-#### Link to the app hosted in Heroku:  https://tinyurl.com/DrugReviewAnalyzer
+
