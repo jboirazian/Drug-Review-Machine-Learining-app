@@ -1,4 +1,4 @@
-# Drug Review Machine Learining app
+# Medical Drug Review Machine Learning Analyzer app
 
 Application developed during the Digital House Data Science 2021 course 
 
