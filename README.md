@@ -1,8 +1,9 @@
+
 # Medical Drug Review Machine Learning Analyzer app
 
 Application developed during the Digital House Data Science 2021 course 
 
-This app extracts tweets and post from Reddit using their respective APIs , runs an analysis using a LGBM model trained with this dataset :
+This app extracts tweets and post from Reddit using their respective APIs , runs an analysis using a LGBM model trained with this dataset:
 
 https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018
 
@@ -57,4 +58,5 @@ Mariana peinado: peinadomariana@gmail.com
 
 Franco Visintini: francovisintini@gmail.com
 
-
+##### Visitors: 
+![Visitor Count](https://profile-counter.glitch.me/{jboirazian}/count.svg)
