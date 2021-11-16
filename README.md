@@ -9,9 +9,9 @@ https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018
 
 and gives statistics about the Medical drug in that social media site.
 
-Database contains *161297* reviews.
+Database contains **161297** reviews.
 
-<span style="color:red">some **This is Red Bold.** text</span>
+
 
 ## Example 1:
 
