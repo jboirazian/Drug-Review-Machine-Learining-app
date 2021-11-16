@@ -9,6 +9,10 @@ https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018
 
 and gives statistics about the Medical drug in that social media site.
 
+Database contains *161297* reviews.
+
+<span style="color:red">some **This is Red Bold.** text</span>
+
 ## Example 1:
 
 During the COVID-19 pandemic a really popular medication is the Dexamethasone , specially for patients in critical condition.
