@@ -12,8 +12,6 @@ and gives statistics about the Medical drug in that social media site.
 
 Database contains **161297** reviews.
 
-
-
 ## Example 1:
 
 During the COVID-19 pandemic a really popular medication is the Dexamethasone , specially for patients in critical condition.
