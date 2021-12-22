@@ -1,5 +1,6 @@
 
 # Medical Drug Review Machine Learning Analyzer app
+[![Made with Python](https://img.shields.io/badge/Python->=3.6-purple?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
 
 Application developed during the Digital House Data Science 2021 course 
 
